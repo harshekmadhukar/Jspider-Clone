@@ -249,7 +249,7 @@ h6{
 }
 .footer{
     position: fixed;
-    top: 470px;
+    top: 85vh;
     left: 0px;
     width: 100%;
     background-color: white;
